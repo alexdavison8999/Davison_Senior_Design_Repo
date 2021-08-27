@@ -31,6 +31,7 @@
  - Data Science
  - Cloud Computing
  - Web Design
+ - Game Development
  
 ## Project interests:
 
