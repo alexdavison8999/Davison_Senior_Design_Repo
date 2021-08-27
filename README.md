@@ -1,6 +1,6 @@
 # Alexander Davison
--  C: 330-301-2946         
--  E: davisoat@mail.uc.edu
+-  Cell: 330-301-2946         
+-  Email: davisoat@mail.uc.edu
 ## Co-op Experience
 
 ##### Software Engineer, L3Harris, Mason, OH (2 semesters):rocket: :alien: 
@@ -33,7 +33,7 @@
  
 ## Project interests:
 
-> I'm looking to work on a Software heavy project (i.e. Not embeded Software) that 
+> I'm looking to work on a project that alligns with a topic that I am interested in. When reading through the project list, the ones the sparked my interests dealt with video games, the enviornment, and also the anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in Data Science, Wed Design, Game Developement, and Cloud computing. Here are my top picks for possible projects, although I am flexible: 16. 17. 18. 19 
 
 > 
 
