@@ -4,7 +4,8 @@
 ## Co-op Experience
 
 ##### Software Engineer, L3Harris, Mason, OH (2 semesters):rocket: :alien: 
- - Developed, tested 
+ - Design, develop, implement, and test embedded software in support of various spacecraft technologies. 
+ - 
 
  - Dev Ops Role: worked to Dockerize existing application to provide further ease of use for customers and developers. Also implemented continuous integration pipeline (Jenkins) for seperate devlopement project
 
