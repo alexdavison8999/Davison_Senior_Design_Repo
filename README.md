@@ -6,10 +6,10 @@
 ##### Software Engineer, L3Harris, Mason, OH (January 2021 - August 2021):rocket: :alien: 
  - Designed, developed, implemented, and tested embedded software in support of various spacecraft technologies (C, C++)
  - Developed and integrated scripting tool to find linking/item errors in requirements (DXL / Doors)
- - Developed file parsers for sensor integration and enviornmental testing (MATLAB, Python)
+ - Developed file parsers for sensor integration and environmental testing (MATLAB, Python)
  - Tested and edited existing software with ethernet switch to be implemented in final project (Python)
  - Dockerized existing application to provide further ease of use for customers and developers
- - Implemented continuous integration pipeline for internal devlopement project (Jenkins)
+ - Implemented continuous integration pipeline for internal development project (Jenkins)
 
 ##### Software Developer, London Computer Systems, Loveland, OH (April 2020 - August 2020) :house:
 
@@ -24,7 +24,7 @@
 ## Skills / Areas of Expertise
  - Programming: Python, C++, C#, DXL, MATLAB, LabView
  - Operating Systems: Linux, Windows
- - Web Developement: HTML, CSS
+ - Web Development: HTML, CSS
  - DevOps: Jenkins, Docker
  
 ## Interest Areas
@@ -35,5 +35,5 @@
  
 ## Project interests:
 
-I'm looking to work on a project that alligns with a topic that I am interested in. When reading through the project list, the ones the sparked my interests dealt with video games, the enviornment, and also the anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in data science, web design, game developement, and cloud computing. Here are my top picks for possible projects, although I am flexible: 16, 17, 18, 19. Please reach out if you would be intested in working together!
+I'm looking to work on a project that aligns with a topic that I am interested in. When reading through the project list, the ones that sparked my interests dealt with video games, the environment, and also anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in data science, web design, game development, and cloud computing. Here are my top picks for possible projects, although I am flexible: 16, 17, 18, 19. Please reach out if you would be interested in working together!
 
