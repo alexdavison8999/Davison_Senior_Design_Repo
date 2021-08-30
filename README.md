@@ -3,23 +3,23 @@
 -  Email: davisoat@mail.uc.edu
 ## Co-op Experience
 
-##### Software Engineer, L3Harris, Mason, OH (2 semesters):rocket: :alien: 
- - Design, develop, implement, and test embedded software in support of various spacecraft technologies. 
- - 
+##### Software Engineer, L3Harris, Mason, OH (January 2021 - August 2021):rocket: :alien: 
+ - Designed, developed, implemented, and tested embedded software in support of various spacecraft technologies (C, C++)
+ - Developed and integrated scripting tool to find linking/item errors in requirements (DXL / Doors)
+ - Developed file parsers for sensor integration and enviornmental testing (MATLAB, Python)
+ - Tested and edited existing software with ethernet switch to be implemented in final project (Python)
+ - Dockerized existing application to provide further ease of use for customers and developers
+ - Implemented continuous integration pipeline for internal devlopement project (Jenkins)
 
- - Dev Ops Role: worked to Dockerize existing application to provide further ease of use for customers and developers. Also implemented continuous integration pipeline (Jenkins) for seperate devlopement project
-
-##### Software Developer, London Computer Systems, Loveland, OH (1 semester) :house:
+##### Software Developer, London Computer Systems, Loveland, OH (April 2020 - August 2020) :house:
 
  - Designed features and solutions to bug fixes for the API project (C#)
  - Collaborated with co-workers on topic specific projects (Code review, pair programming, brainstorming)
  - Investigated existent software to generate changes for co-workers to implement
 
-
-##### QA Specialist, London Computer Systems, Loveland, OH (1 semester) :computer:
+##### Quality Assurance Specialist, London Computer Systems, Loveland, OH (August 2019 - December 2020) :computer:
  - Developed and validated test plans for various features within company software and API integrations
  - Documented user interface bugs, while working alongside the developers to assure quality
-
 
 ## Skills / Areas of Expertise
  - Programming: Python, C++, C#, DXL, MATLAB, LabView
@@ -35,9 +35,5 @@
  
 ## Project interests:
 
-> I'm looking to work on a project that alligns with a topic that I am interested in. When reading through the project list, the ones the sparked my interests dealt with video games, the enviornment, and also the anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in Data Science, Wed Design, Game Developement, and Cloud computing. Here are my top picks for possible projects, although I am flexible: 16. 17. 18. 19 
+I'm looking to work on a project that alligns with a topic that I am interested in. When reading through the project list, the ones the sparked my interests dealt with video games, the enviornment, and also the anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in data science, web design, game developement, and cloud computing. Here are my top picks for possible projects, although I am flexible: 16, 17, 18, 19. Please reach out if you would be intested in working together!
 
-> 
-
-Alexander Davison's Professional Biography for CS5001
-:rocket:
