@@ -20,7 +20,7 @@ We are developing a virtual assistant device (EVA) to help elderly people take t
 ### [PPT Slideshow](SlidePresentation.pdf)
 Video Link - https://www.youtube.com/watch?v=HBWMEIJVlcY
 
-Self-Assessment Essays
+### [Self-Assessment Essay](SelfAssesmentEssay.pdf)
 
 ### [Professional Biographies](ProfessionalBiography.md)
 
