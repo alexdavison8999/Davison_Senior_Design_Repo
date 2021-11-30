@@ -17,8 +17,7 @@ We are developing a virtual assistant device (EVA) to help elderly people take t
 
 [Effort Matrix](EffortMatrix.pdf)
 
-PPT Slideshow (includes ABET Concerns)
-
+### [PPT Slideshow](SlidePresentation.pdf)
 Self-Assessment Essays
 
 ### [Professional Biographies](ProfessionalBiography.md)
