@@ -18,6 +18,8 @@ We are developing a virtual assistant device (EVA) to help elderly people take t
 [Effort Matrix](EffortMatrix.pdf)
 
 ### [PPT Slideshow](SlidePresentation.pdf)
+Video Link - https://www.youtube.com/watch?v=HBWMEIJVlcY
+
 Self-Assessment Essays
 
 ### [Professional Biographies](ProfessionalBiography.md)
