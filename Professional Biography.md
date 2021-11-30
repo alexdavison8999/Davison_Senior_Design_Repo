@@ -35,5 +35,5 @@
  
 ## Project interests:
 
-I'm looking to work on a project that aligns with a topic that I am interested in. When reading through the project list, the ones that sparked my interests dealt with video games, the environment, and also anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in data science, web design, game development, and cloud computing. Here are my top picks for possible projects, although I am flexible: 16, 17, 18, 19. Please reach out if you would be interested in working together!
+I'm looking to work on a project that aligns with a topic that I am interested in. When reading through the project list, the ones that sparked my interests dealt with speecha nd image recognition, the environment, and also anything dealing with image tracking. Part of my work at L3 dealt with embedded software so if possible, I'd like to work on a different type of project to expand my exposure to different areas of computer science. I am interested in data science, web design, game development, and cloud computing. Here are my top picks for possible projects, although I am flexible: 16, 17, 18, 19. Please reach out if you would be interested in working together!
 
